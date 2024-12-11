@@ -1,25 +1,23 @@
 # My Tools
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+My ongoing SOC Tools creation project is aimed at developing a comprehensive set of custom network analysis tools, including a port scanner, unthreaded UDP ping tool, and ICMP traceroute utility, to enhance my skills as a cybersecurity analyst. These tools will aid in identifying vulnerabilities, analyzing network traffic, and strengthening defenses against potential threats, aligning with the responsibilities of monitoring and protecting organizational systems. This tools were designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
+- Cybersecurity Threat Mitigation: Learnt to identify and address vulnerabilities like open ports, exposed services, and weak network configurations.
+- Ethical Hacking Practices: Understanding how to responsibly use scanning tools for vulnerability assessments.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Github
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
