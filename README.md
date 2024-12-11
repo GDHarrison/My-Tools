@@ -1,8 +1,8 @@
-# My Tools
+# Network Scanning Tools
 
 ## Objective
 
-My ongoing SOC Tools creation project is aimed at developing a comprehensive set of custom network analysis tools, including a port scanner, unthreaded UDP ping tool, and ICMP traceroute utility, to enhance my skills as a cybersecurity analyst. These tools will aid in identifying vulnerabilities, analyzing network traffic, and strengthening defenses against potential threats, aligning with the responsibilities of monitoring and protecting organizational systems. This tools were designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Network Scanning Tools creation project is aimed at developing a comprehensive set of custom network analysis tools, including a port scanner, unthreaded UDP ping tool, and ICMP traceroute utility, to enhance my skills as a cybersecurity analyst. These tools will aid in identifying vulnerabilities, analyzing network traffic, and strengthening defenses against potential threats, aligning with the responsibilities of monitoring and protecting organizational systems. This tools were designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
 
