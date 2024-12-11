@@ -18,6 +18,7 @@ Network Scanning Tools creation project is aimed at developing a comprehensive s
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Github
+- pycharm
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
