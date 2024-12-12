@@ -21,7 +21,16 @@ Network Scanning Tools creation project is aimed at developing a comprehensive s
 - pycharm
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
+## Port Scanner
+Using python I was able to create a simple port scanner using multi-threading
+Screenshot 1 (Code)
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/0ef2e197-f9ec-4c83-a924-e3530fe60cdd" />
+Screenshot 1 (Run)
+These much ports are open because this test in done on metasploitable 2.0
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c9302df3-b60e-4c90-a3c3-ae42f2270909" />
+
+
 
 Every screenshot should have some text explaining what the screenshot is about.
 
