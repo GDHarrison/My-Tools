@@ -20,20 +20,27 @@ Network Scanning Tools creation project is aimed at developing a comprehensive s
 - Github
 - pycharm
 
-## Steps
 
-## Port Scanner
-Using python I was able to create a simple port scanner using multi-threading
-Screenshot 1 (Code)
+## Port Scanner (Tool 1)
+Using python I was able to create a simple port scanner using multi-threading <br>
+Screenshot 1 (Code) <br>
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/0ef2e197-f9ec-4c83-a924-e3530fe60cdd" />
-Screenshot 1 (Run)
+
+Screenshot 2 (Run) <br>
 These much ports are open because this test in done on metasploitable 2.0
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/c9302df3-b60e-4c90-a3c3-ae42f2270909" />
 
 
 
-Every screenshot should have some text explaining what the screenshot is about.
+## UDP Ping (Tool 2)
+Using python I was able to create a simple UDP ping tool to test for host response <br>
+Screenshot 1 (Code) <br>
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/be35bf7a-9782-40c1-8b52-619814baf967" />
 
-Example below.
+Screenshot 2 (Run) <br>
+First ping to google server 8.8.8.8 generated zero response, unlike second ping to metasploitable
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/b1a9944c-b508-46ee-852e-da9b17b2c996" />
 
-*Ref 1: Network Diagram*
+
+
+
